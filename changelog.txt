@@ -1,0 +1,29 @@
+commit 3a84da52d174a238f1084c3cfe7172cdc7ce08d2
+Author: Clemence Huve <Clemenceh92@orange.fr>
+Date:   Thu Oct 10 15:03:53 2013 +0200
+
+    Display copyright
+
+commit 7ef02d370962279663d96b897afe95dee9b2705a
+Author: Clemence Huve <Clemenceh92@orange.fr>
+Date:   Thu Oct 10 15:01:54 2013 +0200
+
+    Add file correct header
+
+commit fca6eb1c7926a02ce684a432478239c86026718f
+Author: Clemence Huve <Clemenceh92@orange.fr>
+Date:   Thu Oct 10 14:57:28 2013 +0200
+
+    Add file header
+
+commit 40a625db749200c4359f9d2f4c6b4dd0830b1f85
+Author: Clemence Huve <Clemenceh92@orange.fr>
+Date:   Thu Oct 10 14:54:48 2013 +0200
+
+    Add build time
+
+commit 1b9187ed605f421a3c20e6ef1d1d08584895c4f8
+Author: Clemence Huve <Clemenceh92@orange.fr>
+Date:   Thu Oct 10 14:50:50 2013 +0200
+
+    Initial commit
